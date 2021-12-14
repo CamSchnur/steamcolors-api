@@ -7,6 +7,6 @@ namespace steamcolors_api.Models
 {
     public class ColorPalette
     {
-
+        public List<String> Colors { get; set; }
     }
 }
